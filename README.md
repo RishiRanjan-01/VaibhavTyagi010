@@ -17,7 +17,7 @@
 - 📫 How to reach me **vaibhawtyagi010@gmail.com**
 
 
-<p align="left">
+<p style="margin-top:100px ;" align="left">
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
