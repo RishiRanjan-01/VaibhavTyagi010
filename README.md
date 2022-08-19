@@ -2,9 +2,9 @@
 <img width="100%" height="250px" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
 <h1 align="center">Hi 👋, I'm Vaibhav Tyagi</h1>
-<h3 align="center">A passionate Backend Java developer from India</h3>
+<h3 align="center">I am a passionate backend developer and work with Java, Spring Boot, Hibernate, SQL, HTML, CSS, Javascript, and Data Structures. I am dedicated to developing robust applications that interact with the backend parts of web applications. extensive expertise in website architecture, web design, and web API designs. I have a problem-solving mindset and I am a team player who believes great things are built by great teams, and I enjoy working in groups.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tndigitalseva.in/assets/web/img/login-page.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavtyagi010&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavtyagi010" /> </p>
 
