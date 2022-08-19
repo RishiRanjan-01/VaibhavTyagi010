@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vaibhawtyagi010@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -52,18 +52,19 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/chova-ram-sinha-5845a6181/">
+ 
+    <a href="https://linkedin.com/in/vaibhavtyagi010">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
     </a>
-    <a href="https://twitter.com/ss4033167">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ss4033167" />
+ <a href="https://www.hackerrank.com/vaibhawtyagi010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhavtyagi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vaibhawtyagi010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhawtyagi010" height="30" width="40" /></a>
+    <a href="https://vaibhav-tyagi-portfolio.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://vaibhav-tyagi-portfolio.netlify.app/" />
     </a>
-    <a href="https://incomparable-entremet-53381a.netlify.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://incomparable-entremet-53381a.netlify.app/" />
+    <a title="vaibhawtyagi010@gmail.com" href="mailto:vaibhawtyagi010@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vaibhawtyagi010@gmail.com" />
     </a>
-    <a title="chovaramkwd@gmail.com" href="mailto:chovaramkwd@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chovaramkwd@gmail.com" />
-    </a>
+ 
 </p>
 
 <br>
